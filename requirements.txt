@@ -1,0 +1,3 @@
+# Function dependencies, for example:
+# package>=version
+rasa-nlu>=0.14.6
